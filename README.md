@@ -3,7 +3,7 @@ This repository is a part of homework2 for the Computing for Business Research c
 
 ## Structure
 <strong> webcrawler.py: </strong> <br>
-This code is an example in class which shows how to do webcrawling. It starts with the Columbia Business School Website (https://www8.gsb.columbia.edu) and visits the urls listed on that website.<br>
+This code is an example covered in class which shows how to do webcrawling. It starts with the Columbia Business School Website (https://www8.gsb.columbia.edu) and visits the urls listed on that website.<br>
 
 <strong> Assignment2_Cecilia Yu: </strong> <br>
 This code is the solution for homework2 question1, which involves writing web crawlers for two tasks:<br>
